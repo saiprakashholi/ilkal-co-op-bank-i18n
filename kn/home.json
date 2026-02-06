@@ -1,0 +1,32 @@
+{
+  "FINANCIAL_STRENGTH_TITLE": "ಹಣಕಾಸಿನ ಬಲ",
+  "FINANCIAL_STRENGTH_SUBTITLE": "ನಿರಂತರ ಬೆಳವಣಿಗೆ ನಮ್ಮ ನಂಬಿಕೆ ಮತ್ತು ಸ್ಥಿರತೆಯನ್ನು ಪ್ರತಿಬಿಂಬಿಸುತ್ತದೆ",
+
+  "SHARE_CAPITAL": "ಹಂಚಿಕೆ ಬಂಡವಾಳ",
+  "NET_PROFIT": "ನಿವ್ವಳ ಲಾಭ",
+  "ADVANCES": "ಮುಂಗಡಗಳು",
+  "DEPOSITS": "ಠೇವಣಿಗಳು",
+
+  "QUERY_TEXT": "ಯಾವುದೇ ಪ್ರಶ್ನೆಗಳಿದ್ದರೆ ದಯವಿಟ್ಟು ನಮ್ಮನ್ನು ಸಂಪರ್ಕಿಸಿ.",
+  "CONTACT_US": "ನಮ್ಮನ್ನು ಸಂಪರ್ಕಿಸಿ",
+  
+  "banner.items": [
+    {
+      "image": "assets/banners/loan.jpg",
+      "title": "ನಿಮ್ಮ ಎಲ್ಲ ಅಗತ್ಯಗಳಿಗೆ ಸಾಲಗಳು",
+      "subtitle": "ಕೃಷಿ, ಚಿನ್ನ, ವ್ಯಾಪಾರ ಮತ್ತು ವೈಯಕ್ತಿಕ ಸಾಲಗಳು"
+    },
+    {
+      "image": "assets/banners/digital.jpg",
+      "title": "ಡಿಜಿಟಲ್ ಬ್ಯಾಂಕಿಂಗ್ ಸೇವೆಗಳು",
+      "subtitle": "ಯುಪಿಐ, ಐಎಂಪಿಎಸ್ ಮತ್ತು ಮೊಬೈಲ್ ಬ್ಯಾಂಕಿಂಗ್"
+    },
+    {
+      "image": "assets/banners/trust.jpg",
+      "title": "ವಿಶ್ವಾಸಾರ್ಹ ಸಹಕಾರಿ ಬ್ಯಾಂಕ್",
+      "subtitle": "ನಂಬಿಕೆ ಮತ್ತು ಪಾರದರ್ಶಕ ಸೇವೆ"
+    }
+  ]
+
+
+}
