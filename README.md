@@ -1,0 +1,1 @@
+# ilkal-co-op-bank-i18n
