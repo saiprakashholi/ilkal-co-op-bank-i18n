@@ -1,0 +1,40 @@
+{
+  "title": "ಇತ್ತೀಚಿನ ಸುದ್ದಿ ಮತ್ತು ಘೋಷಣೆಗಳು",
+  "items": [
+    {
+      "id": 1,
+      "title": "30.06.2025 ರಂದು DEA ಫಂಡ್ ಖಾತೆಗೆ ವರ್ಗಾಯಿಸಿದ ಮೊತ್ತದ ವಿವರಗಳು",
+      "href": "#",
+      "highlight": false,
+      "date": "30 Jun 2025"
+    },
+    {
+      "id": 2,
+      "title": "SARFAESI Act, 2002 ಅಡಿಯಲ್ಲಿ ವಶಪಡಿಸಿಕೊಂಡ ಭದ್ರ ಆಸ್ತಿಗಳ ಮಾಹಿತಿ (31.08.2025 ರಂದು)",
+      "href": "#",
+      "highlight": false,
+      "date": "31 Aug 2025"
+    },
+    {
+      "id": 3,
+      "title": "DEA ಫಂಡ್‌ನಿಂದ ಮೊತ್ತವನ್ನು ಬೇಡುವ ಪ್ರಕ್ರಿಯೆ",
+      "href": "#",
+      "highlight": false,
+      "date": "—"
+    },
+    {
+      "id": 4,
+      "title": "ಬ್ಯಾಂಕ್ ಅಸಿಸ್ಟೆಂಟ್ಸ್–2024 ಹುದ್ದೆಗಾಗಿ ಅಂತಿಮ ಪರಿಷ್ಕೃತ ಉತ್ತರ ಕೀ",
+      "href": "assets/docs/key-answers-2024.pdf",
+      "highlight": true,
+      "date": "2024"
+    },
+    {
+      "id": 5,
+      "title": "ರಿಕ್ರೂಟ್ಮೆಂಟ್ ಪರೀಕ್ಷೆ ಅಂತಿಮ ಫಲಿತಾಂಶ–2024",
+      "href": "assets/docs/recruitment-result-2024.pdf",
+      "highlight": true,
+      "date": "2024"
+    }
+  ]
+}
