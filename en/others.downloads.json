@@ -6,10 +6,11 @@
   "items": [
     {
       "title": "DEAF Account List",
-      "url": "/assets/downloads/Deaf for the year 2025-26.pdf"
+      "url": "https://raw.githubusercontent.com/saiprakashholi/ilkal-co-op-bank-i18n/prod/assets/downloads/Deaf for the year 2025-26.pdf"
     },
     {
-      "title": "Inoperative Accounts"
+      "title": "Inoperative Accounts",
+      "url": "/assets/downloads/Deaf for the year 2025-26.pdf"
     },
     {
       "title": "Information on Secured Assets Possessed under the SARFAESI Act, 2002"
