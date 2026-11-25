@@ -1,6 +1,13 @@
 {
   "title": "Latest News and Announcement",
   "items": [
+     {
+      "id": 1,
+      "title": "Recruitment Exam Result - 2026",
+      "href": "https://www.ilkal.bank.in/Exam/index.php",
+      "highlight": true,
+      "date": "-"
+    },
     {
       "id": 1,
       "title": "Details of Amount Transferred to DEA Fund Account as on 30.06.2025",
@@ -21,20 +28,7 @@
       "href": "#",
       "highlight": false,
       "date": "—"
-    },
-    {
-      "id": 4,
-      "title": "Final Revised key answers for the post of Bank Assistants–2024",
-      "href": "assets/docs/key-answers-2024.pdf",
-      "highlight": true,
-      "date": "2024"
-    },
-    {
-      "id": 5,
-      "title": "Recruitment EXAM Final Result–2024",
-      "href": "assets/docs/recruitment-result-2024.pdf",
-      "highlight": true,
-      "date": "2024"
     }
+   
   ]
 }
