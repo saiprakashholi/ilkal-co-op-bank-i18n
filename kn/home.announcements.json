@@ -1,6 +1,13 @@
 {
   "title": "ಇತ್ತೀಚಿನ ಸುದ್ದಿ ಮತ್ತು ಘೋಷಣೆಗಳು",
   "items": [
+     {
+      "id": 5,
+      "title": "ನೇಮಕಾತಿ ಪರೀಕ್ಷೆ ಫಲಿತಾಂಶ–2026",
+      "href": "https://www.ilkal.bank.in/exam/index.php",
+      "highlight": true,
+      "date": "-"
+    },
     {
       "id": 1,
       "title": "2025-2026 ರ DEA ಫಂಡ್ ಖಾತೆಗೆ ವರ್ಗಾಯಿಸಿದ ಮೊತ್ತದ ವಿವರಗಳು",
@@ -21,20 +28,6 @@
       "href": "#",
       "highlight": false,
       "date": "—"
-    },
-    {
-      "id": 4,
-      "title": "ಬ್ಯಾಂಕ್ ಅಸಿಸ್ಟೆಂಟ್ಸ್–2024 ಹುದ್ದೆಗಾಗಿ ಅಂತಿಮ ಪರಿಷ್ಕೃತ ಉತ್ತರ ಕೀ",
-      "href": "assets/docs/key-answers-2024.pdf",
-      "highlight": true,
-      "date": "2024"
-    },
-    {
-      "id": 5,
-      "title": "ರಿಕ್ರೂಟ್ಮೆಂಟ್ ಪರೀಕ್ಷೆ ಅಂತಿಮ ಫಲಿತಾಂಶ–2024",
-      "href": "assets/docs/recruitment-result-2024.pdf",
-      "highlight": true,
-      "date": "2024"
     }
   ]
 }
